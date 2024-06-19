@@ -1,6 +1,6 @@
 # CSC-580_Artificial-Intelligence
-Cal Poly SLO Winter '24, Artificial Intelligence
-Authors: Jerry Chang, Ryan Maier, Noah Ravetch, Nicholas Zarate, Alexander Arrieta, Jakob Frabosilio
+## Cal Poly SLO Winter '24, Artificial Intelligence
+### Authors: Jerry Chang, Ryan Maier, Noah Ravetch, Nicholas Zarate, Alexander Arrieta, Jakob Frabosilio
 
 SLAM (Simultaneous Localization and Mapping), is an algorithm for creating a representation of an unknown environment while also keeping track of where an agent is in the environment
 The multi-agent version of the algorithm has additional complexity:
@@ -31,10 +31,10 @@ Tune our Q-learning implementation to increase the efficiency of our search algo
 Expand our simulation to a fully 3D environment, allowing continuous movement and a realistic cone of vision.
 
 References:
-[1] “Coordinate Frame - DGC Wiki,” www.nast-group.caltech.edu. http://www.nast-group.caltech.edu/~murray/dgc05/wiki/c/o/o/Coordinate_Frame_812c.html 
-[2] M. Massot, “miquelmassot/g2o-python-examples,” GitHub, Jan. 31, 2024. https://github.com/miquelmassot/g2o-python-examples/tree/main 
-[3] X. Wang, X. Fan, P. Shi, J. Ni, and Z. Zhou, “An Overview of Key SLAM Technologies for Underwater Scenes,” Remote Sensing, vol. 15, no. 10, p. 2496, Jan. 2023, doi: https://doi.org/10.3390/rs15102496.
-‌[4] “Graph based SLAM — PythonRobotics documentation,” atsushisakai.github.io. https://atsushisakai.github.io/PythonRobotics/modules/slam/graph_slam/graph_slam.html 
-‌[5] H. Bai, “ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy.” Available: https://arxiv.org/ftp/arxiv/papers/2206/2206.06435.pdf
+#### [1] “Coordinate Frame - DGC Wiki,” www.nast-group.caltech.edu. http://www.nast-group.caltech.edu/~murray/dgc05/wiki/c/o/o/Coordinate_Frame_812c.html 
+#### [2] M. Massot, “miquelmassot/g2o-python-examples,” GitHub, Jan. 31, 2024. https://github.com/miquelmassot/g2o-python-examples/tree/main 
+#### [3] X. Wang, X. Fan, P. Shi, J. Ni, and Z. Zhou, “An Overview of Key SLAM Technologies for Underwater Scenes,” Remote Sensing, vol. 15, no. 10, p. 2496, Jan. 2023, doi: https://doi.org/10.3390/rs15102496.
+#### ‌[4] “Graph based SLAM — PythonRobotics documentation,” atsushisakai.github.io. https://atsushisakai.github.io/PythonRobotics/modules/slam/graph_slam/graph_slam.html 
+#### ‌[5] H. Bai, “ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy.” Available: https://arxiv.org/ftp/arxiv/papers/2206/2206.06435.pdf
 
 
