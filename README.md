@@ -1,5 +1,6 @@
 # CSC-580_Artificial-Intelligence
-## Cal Poly SLO Winter '24, Artificial Intelligence
+## Using SLAM with G2O in conjunction with Reinforcement Learning to Model Multi-Agent Collaboration AI
+### Cal Poly SLO Winter '24, Artificial Intelligence
 ### Authors: Jerry Chang, Ryan Maier, Noah Ravetch, Nicholas Zarate, Alexander Arrieta, Jakob Frabosilio
 
 SLAM (Simultaneous Localization and Mapping), is an algorithm for creating a representation of an unknown environment while also keeping track of where an agent is in the environment
